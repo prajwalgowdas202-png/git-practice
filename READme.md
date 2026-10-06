@@ -1,0 +1,2 @@
+#Project Summary: Banking Management System
+Developed a console-based Banking Management System using C++, implementing Object-Oriented Programming (OOP) concepts and file handling. The system allows users to create accounts, deposit and withdraw money, transfer funds, check account balances, and view transaction history. File handling is used to store and retrieve account information, ensuring data persistence. The project demonstrates practical knowledge of C++, OOP, file handling, and basic banking operations.
